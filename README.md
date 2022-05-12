@@ -1,4 +1,6 @@
 # templateForCpp
+* edit your code in `./src`
+
 
 * how to run
 
